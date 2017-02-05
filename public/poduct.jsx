@@ -35,8 +35,7 @@ var ProductList = React.createClass({
     return (
       <div>
           <product/>
-          <product/>
-          <product/>
+
           <Total/>
      </div>
    );

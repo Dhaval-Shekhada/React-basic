@@ -138,8 +138,7 @@ var ProductList = React.createClass({
 });
 
 
-var fname = 'Dhaval';
-var msg = "message from props"
+
 ReactDOM.render(
    <ProductList  />,
    document.getElementById('app')
